@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Hellooo chị",
+    introTitle: 'Trang Anh xinh đẹp',
+    introDesc: `Em thấy chị đáng iu nên là em thấy em iu cũng đáng á`,
+    btnIntro: 'hehehehehe',
+    title: 'Chị làm người iu của pé nhaaaa',
+    desc: 'Hổng có cho từ chối',
+    btnYes: 'Ukie bé nhaaa',
+    btnNo: 'Hong á',
+    question: 'Sao mà chị đồng ý dạ',
+    btnReply: 'Gửi cho Vĩ',
+    reply: 'Sao mà dám từ chối người dễ thương được',
+    mess: 'Em biết mà, moaz moaz =)))',
+    messDesc: 'Em biết là khoảng cách tụi mình xa nhưng mà sớm muộn gì cũng gặp nhau hoi.',
+    btnAccept: 'Okie luôn',
+    messLink: 'https://github.com/zukahai/Confess-Crush' https://www.messenger.com/t/100021997642288
 }
